@@ -1,0 +1,40 @@
+.bg-page {
+    font-family: Cambria;
+    background-color: darkcyan;
+    margin: 1vw;
+    border: none;
+    border-radius: 1.5vw;
+    padding: 1.5vw;
+}
+
+.box-output {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cn {
+    text-align: center;
+    padding: 0.2vw;
+}
+
+.btn {
+    text-align: center;
+    padding: 0.5vw 1vw;
+    border: 0.1 solid black;
+    border-radius: 2.5vw;
+    margin: 1vw;
+}
+
+.card-item {
+    width: 12vw;
+    margin: 0.5vw;
+    text-align: center;
+    border: 0.2vw solid black;
+}
+
+.img-item {
+    width: 75px;
+    height: 75px;
+}
